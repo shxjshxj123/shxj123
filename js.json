@@ -1,5 +1,5 @@
 {
-  "spider": "./fm.jar;md5;4ae5e0859b7c3a667cf83e910ed329e1",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/shxjshxj123/shxj123/main/fm.jar;md5;4ae5e0859b7c3a667cf83e910ed329e1",
   "lives": [
     {
       "name": "live",
