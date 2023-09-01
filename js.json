@@ -4,7 +4,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "./lib/tvlive.txt",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/shxjshxj123/shxj123/main/lib/tvlive.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
